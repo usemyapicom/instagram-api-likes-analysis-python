@@ -1,14 +1,14 @@
-# Instagram Data Analysis with Python
+# Instagram data analysis with Python
 
 Welcome to our cool project! 🌟
 
 This project was born out of the need to analyze which users are liking the posts of a given Instagram account. Are these likes coming from new users or existing followers? Our app helps you find out!
 
-## What This Project Does
+## What this project does
 
 The application analyzes Instagram post likes and visualizes the data. You'll get a clear chart that showcases the analysis of who is liking the posts.
 
-## Learn More
+## Learn more
 
 We've documented the entire project development process on [usemyapi.com](https://usemyapi.com). The article series is divided into three parts to guide you step-by-step through the environment and development:
 
